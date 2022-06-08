@@ -97,7 +97,7 @@ section{
     }
     
     #menu-btn.fa-times{
-        transform: rotate(18deg);
+        transform: rotate(180deg);
     }
     .header .flex .navbar {
      position: absolute;
